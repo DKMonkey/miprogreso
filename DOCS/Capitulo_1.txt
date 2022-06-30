@@ -1,0 +1,39 @@
+Atributo lang="" indica el idioma humano del documento
+
+Etiqueta <link> es usada para incorporar estilos, códigos Javascript, imágenes o iconos desde archivos externos
+
+Etiqueta <header> tiene la introducción de proveer información introductoria
+
+Etiqueta <nav> en esta sección se coloca la Barra de navegación 
+
+Etiqueta <section> es la información principal de la página
+
+Etiqueta <aside> aquí se colocan datos relacionados con la información de la pagina
+
+Etiqueta <footer> se usa para compartir información general de la pagina
+
+Etiqueta <article> se usa para dividir información
+
+Etiqueta <hgroup> se usa para unir varias etiquetas <H> buenas practicas
+
+Etiqueta <figure> se usa para poner información como: fotos, videos, audios, etc
+
+Etiqueta <figcaption> se usa para dar relación con la etiqueta <FIGURE>
+
+Etiqueta <mark> se usa para resaltar el texto mas relevante
+
+Etiqueta <em> se usa para indicar énfasis
+
+Etiqueta <strong> se usa para indicar importancia
+
+Etiqueta <small> hace una letra pequeña para declara impresiones legales, descargos, etc
+
+Etiqueta <cite> encierra el titulo de un trabajo como: Películas, Libros, Canción, etc
+
+Etiqueta <address> se usa para dar información del contacto relacionado con el elemento del artículo
+
+Etiqueta <time> se usa para señalar datos de tiempo
+
+Atributo datetime="" tiene el valor que representa la fecha comprensible para el navegador la fecha se pone con el formato "año-mes-diaThora-minutos-segundos"
+
+Al final se utiliza el atributo pubdate para señalar que es la fecha de publicación
