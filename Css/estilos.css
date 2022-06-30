@@ -1,0 +1,12 @@
+*{
+    background-color: #FF4949;
+}
+p{
+    text-align: justify;
+}
+
+img[name="muestra"]{
+    border-color: black;
+    border-style: solid;
+    text-align: center;
+}
